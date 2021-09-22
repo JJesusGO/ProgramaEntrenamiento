@@ -4,4 +4,4 @@
 
 # Temario
 ## Docker
-* [Documentación](https://github.com/JJesusGO/ProgramaEntrenamiento/blob/main/Documentacion/Docker.docx)
+* [Documentación](https://github.com/JJesusGO/ProgramaEntrenamiento/blob/main/Documentacion/Docker.pdf)
