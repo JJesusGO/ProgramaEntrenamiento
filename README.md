@@ -1,6 +1,7 @@
-# ProgramaEntrenamiento
-Programa de entrenamiento de tecnologías requeridas para los proyectos en Kwan Tecnologia.
+# Entrenamiento en tecnologias.
 
-#Temario
-1. ## Docker
-  1.1. [Documentación](https://github.com/JJesusGO/ProgramaEntrenamiento/blob/main/Documentacion/Docker.docx)
+**Descripción** : Programa de entrenamiento de tecnologías requeridas para los proyectos realizados en Kwan Tecnologia.
+
+# Temario
+## Docker
+* [Documentación](https://github.com/JJesusGO/ProgramaEntrenamiento/blob/main/Documentacion/Docker.docx)
